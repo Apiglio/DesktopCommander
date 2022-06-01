@@ -1,0 +1,22 @@
+object CommandLineForm: TCommandLineForm
+  Left = 1323
+  Height = 240
+  Top = 689
+  Width = 486
+  Caption = 'Apiglio Desktop Commander'
+  ClientHeight = 240
+  ClientWidth = 486
+  OnCreate = FormCreate
+  OnResize = FormResize
+  LCLVersion = '1.6.0.4'
+  object Memo_cmd: TMemo
+    Left = 16
+    Height = 143
+    Top = 8
+    Width = 352
+    Lines.Strings = (
+      'Memo_cmd'
+    )
+    TabOrder = 0
+  end
+end

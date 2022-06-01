@@ -1,0 +1,51 @@
+object CommandForm: TCommandForm
+  Left = 1327
+  Height = 240
+  Top = 723
+  Width = 506
+  Caption = 'CommandForm'
+  ClientHeight = 240
+  ClientWidth = 506
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnResize = FormResize
+  LCLVersion = '1.6.0.4'
+  object Memo_cmd: TMemo
+    Left = 8
+    Height = 170
+    Top = 8
+    Width = 488
+    Lines.Strings = (
+      'Memo_cmd'
+    )
+    ScrollBars = ssAutoVertical
+    TabOrder = 0
+  end
+  object Button_clear: TButton
+    Left = 8
+    Height = 32
+    Top = 197
+    Width = 135
+    Caption = '清屏'
+    OnClick = Button_clearClick
+    TabOrder = 1
+  end
+  object Button_alterna: TButton
+    Left = 152
+    Height = 32
+    Top = 197
+    Width = 135
+    Caption = '开始记录'
+    OnClick = Button_alternaClick
+    TabOrder = 2
+  end
+  object Button_option: TButton
+    Left = 304
+    Height = 32
+    Top = 197
+    Width = 135
+    Caption = '隐藏'
+    OnClick = Button_optionClick
+    TabOrder = 3
+  end
+end

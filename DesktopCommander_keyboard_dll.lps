@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="DesktopCommander_keyboard_dll.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="2"/>
+        <CursorPos X="13" Y="4"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="K:\lazarus\fpc\3.0.0\source\rtl\win\wininc\struct.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4868"/>
+        <CursorPos X="21" Y="4882"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="D:\Lazarus\fpc\3.0.4\source\rtl\win\wininc\func.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="624"/>
+        <CursorPos X="24" Y="639"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="D:\Lazarus\fpc\3.0.4\source\rtl\win\wininc\ascdef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="254"/>
+        <CursorPos X="28" Y="270"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="DesktopCommander_keyboard_dll.lpr"/>
+        <Caret Line="25" Column="93" TopLine="11"/>
+      </Position1>
+      <Position2>
+        <Filename Value="DesktopCommander_keyboard_dll.lpr"/>
+        <Caret Line="24" Column="63"/>
+      </Position2>
+      <Position3>
+        <Filename Value="DesktopCommander_keyboard_dll.lpr"/>
+        <Caret Line="8" Column="47"/>
+      </Position3>
+      <Position4>
+        <Filename Value="DesktopCommander_keyboard_dll.lpr"/>
+        <Caret Line="24" Column="60" TopLine="10"/>
+      </Position4>
+      <Position5>
+        <Filename Value="DesktopCommander_keyboard_dll.lpr"/>
+        <Caret Line="21" Column="16" TopLine="10"/>
+      </Position5>
+      <Position6>
+        <Filename Value="DesktopCommander_keyboard_dll.lpr"/>
+        <Caret Line="25" Column="19" TopLine="25"/>
+      </Position6>
+      <Position7>
+        <Filename Value="DesktopCommander_keyboard_dll.lpr"/>
+        <Caret Line="25" Column="19" TopLine="37"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
